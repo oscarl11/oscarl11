@@ -4,7 +4,7 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
 
 ## Last publications
 
-### My socials
+## My socials
 
 - LinkedIn
 

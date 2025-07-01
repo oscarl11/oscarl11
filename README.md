@@ -1,12 +1,15 @@
-# Hello! My name is Oscar
+# Hello! I'm Oscar
 
 I'm an Industrial engineer with a strong passion for Data & AI, offering hands-on experience with SQL, Python, AWS for ETL processes, and Power BI for business intelligence and analytics. Eager to apply analytical and technical skills to solve complex business problems and drive data-driven decision-making. Currently building a portfolio of data and AI projects, and highly motivated to contribute to innovative teams at the intersection of industry and technology.
 
 ## Last publications
 
+## Take a look to my latest projects
+
 ## My socials
 
 - LinkedIn
+
 
 <!--
 **oscarl11/oscarl11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

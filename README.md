@@ -11,12 +11,14 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+
 ## Last publications
 
 ## Take a look to my latest projects
 
 
 ## My socials
+
 
 - LinkedIn
 

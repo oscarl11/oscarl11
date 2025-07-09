@@ -2,6 +2,12 @@
 
 I'm an Industrial engineer with a strong passion for Data & AI, offering hands-on experience with SQL, Python, AWS for ETL processes, and Power BI for business intelligence and analytics. Eager to apply analytical and technical skills to solve complex business problems and drive data-driven decision-making. Currently building a portfolio of data and AI projects, and highly motivated to contribute to innovative teams at the intersection of industry and technology.
 
+## Last publications
+
+## Take a look to my latest projects
+
+## Languages and tools
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-107d05?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
@@ -18,12 +24,6 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-
-## Last publications
-
-## Take a look to my latest projects
-
 
 ## My socials
 

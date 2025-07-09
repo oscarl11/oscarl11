@@ -6,8 +6,8 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img alt="Python" src="https://img.shields.io/badge/-Python-107d05?style=flat-square&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
   <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-cd7409?style=flat-square&logo=apachespark&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-e31d05?style=flat-square&logo=databricks&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-ff5900?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />

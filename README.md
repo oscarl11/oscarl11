@@ -10,6 +10,8 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-ff5900?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-844506?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Scikitlearn" src="https://img.shields.io/badge/-Scikitlearn-0a8fc1?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-08b87d?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-d2e363?style=flat-square&logo=huggingface&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />

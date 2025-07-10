@@ -10,7 +10,6 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-107d05?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
   <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache_Spark-cbc20a?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-e31d05?style=flat-square&logo=databricks&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-ff5900?style=flat-square&logo=pytorch&logoColor=white" />
@@ -55,7 +54,7 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-72f744?style=flat-square&logo=Node.js&logoColor=white" />
-
+  <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

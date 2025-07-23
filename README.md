@@ -3,7 +3,9 @@
 I'm an Industrial engineer with a strong passion for Data & AI, offering hands-on experience with SQL, Python, AWS for ETL processes, and Power BI for business intelligence and analytics. Eager to apply analytical and technical skills to solve complex business problems and drive data-driven decision-making. Currently building a portfolio of data and AI projects, and highly motivated to contribute to innovative teams at the intersection of industry and technology.
 
 ## Last publications 📰
-
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPowe/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 ## Take a look to my latest projects 🏗️
 
 ## Languages and tools 🖥️

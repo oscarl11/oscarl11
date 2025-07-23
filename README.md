@@ -1,12 +1,12 @@
-# Hello! I'm Oscar, nice to meet you!
+# :wave: Hello! I'm Oscar, nice to meet you!
 
 I'm an Industrial engineer with a strong passion for Data & AI, offering hands-on experience with SQL, Python, AWS for ETL processes, and Power BI for business intelligence and analytics. Eager to apply analytical and technical skills to solve complex business problems and drive data-driven decision-making. Currently building a portfolio of data and AI projects, and highly motivated to contribute to innovative teams at the intersection of industry and technology.
 
-## Last publications
+## Last publications 📰
 
-## Take a look to my latest projects
+## Take a look to my latest projects 🏗️
 
-## Languages and tools
+## Languages and tools 🖥️
 
 <table>
   <tr>
@@ -81,10 +81,9 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   </tr>
 </table>
 
-## My socials
+## My socials 💬
 
-
-- LinkedIn
+- Connect with me on **[LinkedIn]**
 
 
 <!--
@@ -120,7 +119,7 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 -->
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -131,3 +130,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Linkedin]:https://www.linkedin.com/in/oscar-luna-silvera/ "Oscar Luna"

@@ -71,6 +71,13 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
       </a>
       <br>Spark
     </td>
+  </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/etl.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>ETL
+    </td>
   </tr>
 </table>
 

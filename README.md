@@ -10,7 +10,7 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
 -->
 ## Take a look to my latest projects 🏗️
 
-## Languages and tools 🖥️
+## Languages, topics & tools 🖥️
 
 <table>
   <tr>

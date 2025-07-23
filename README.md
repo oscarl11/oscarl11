@@ -12,68 +12,67 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/databricks.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Databricks
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/microsoftsqlserver.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/powerbi.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Power BI
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/aws.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>AWS
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/azure.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Azure
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/git.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/machine-learning.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Machine Learning
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/spark.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Spark
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
-
 
 ## My socials
 
@@ -101,6 +100,19 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-72f744?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-0a27b8?style=flat-square&logo=r&logoColor=white" />
+<p align="center">
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

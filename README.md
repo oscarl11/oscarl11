@@ -16,12 +16,6 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/databricks.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Databricks
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -31,6 +25,12 @@ I'm an Industrial engineer with a strong passion for Data & AI, offering hands-o
         <img src="./img/microsoftsqlserver.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/databricks.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Databricks
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
